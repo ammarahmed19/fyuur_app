@@ -1,2 +1,2 @@
 # fyuur_app
-Project for Udacity's Advanced Web Development Nanodegree
+Artist Booking Site: Project for Udacity's Advanced Web Development Nanodegree
